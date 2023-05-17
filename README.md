@@ -1,1 +1,1 @@
-## Distance to Galaxy collision
+## Distance to Galaxy Collision
