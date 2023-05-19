@@ -1,1 +1,7 @@
-
+.App {
+    background: url('../../images/galaxies.JPG');
+    background-size: cover;
+    background-position: center;
+    min-height: 700px;
+    min-width: 1500px;
+}
