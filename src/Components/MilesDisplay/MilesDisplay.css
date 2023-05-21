@@ -12,4 +12,6 @@ h2 {
     padding-right: 15%;
     padding-top: 25%;
     display: inline-block;
+    position: absolute;
+    margin-left: 15%;
 }
