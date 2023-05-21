@@ -3,15 +3,16 @@
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    min-height: 900px;
-    min-width: 1000px;
+    min-height: 1000px;
+    min-width: 1500px;
     background-size: auto;
-    position: absolute;
+    position: relative;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
     overflow: auto;
+    justify-content: center;
 }
 
 html, body {
